@@ -93,7 +93,6 @@ body{
 	width: 1335px;
 	top: 10%;
 	left: 50%;
-	margin-top: -55px;
 	margin-left: -667px;
 }
 .headline span {
@@ -214,18 +213,16 @@ body{
 .menu {
 	position: absolute;
 	display: inline-block;
-	top: 30%;
+	top: 65%;
 	left: 50%;
-	margin-top: -30px;
-	margin-left: -403px;
+	margin-left: -242px;
 }
 
 .menu .space {
 	display: inline-block;
-	height: 150px;
-	width: 240px;
+	height: 200px;
+	width: 200px;
 	text-align: center;
-	line-height: 150px;
 }
 
 .menu .space a {
